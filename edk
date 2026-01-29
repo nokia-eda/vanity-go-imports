@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta name="go-import" content="eda.dev/edk git https://github.com/nokia-eda/edk">
+        <meta name="go-import" content="go.eda.dev/edk git https://github.com/nokia-eda/edk">
         <meta http-equiv="refresh" content="0;URL='https://github.com/nokia-eda/edk'">
     </head>
     <body>
